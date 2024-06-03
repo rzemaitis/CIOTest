@@ -1,0 +1,14 @@
+# Environments
+.venv
+.vscode
+
+# Byte-compiled / optimized / DLL files
+*__pycache__
+
+# Distribution / packaging
+*.egg-info/
+*pip-wheel-metadata/
+
+# Project-specific files
+ports/*.ports
+ports.csv
